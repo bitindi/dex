@@ -4,7 +4,6 @@ An open source interface for Bitindi -- a protocol for decentralized exchange.
 Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface)
 
 - Website: [bitindi.com](https://bitindi.com/)
-- Whitepaper: [Link](https://files.kyber.network/DMM-Feb21.pdf)
 
 ## Accessing the bitindi Interface
 
